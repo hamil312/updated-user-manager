@@ -79,12 +79,11 @@ class HomePage extends StatelessWidget {
                       title: Text(user.username),
                       subtitle: Text(user.email),
                       trailing: Row(
-                        mainAxisSize: MainAxisSize.min, // Corrige el diseño
+                        mainAxisSize: MainAxisSize.min,
                         children: [
                           IconButton(
                             icon: Icon(Icons.edit),
                             onPressed: () {
-                              // Creando nuevos controladores locales
                               final _editUsernameController =
                                   TextEditingController(text: user.username);
                               final _editEmailController =
