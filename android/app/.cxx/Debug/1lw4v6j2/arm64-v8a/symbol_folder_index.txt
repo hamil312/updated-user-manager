@@ -1,0 +1,1 @@
+C:\Users\hamis\Documents\Tareas\6to_semestre\electiva_iii_programacion_de_aplicaciones_mobile_con_flutter\proyecto_appwrite\app_flutter_appwrite\build\app\intermediates\cxx\Debug\1lw4v6j2\obj\arm64-v8a
